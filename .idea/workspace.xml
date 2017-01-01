@@ -46,11 +46,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Anagrams.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Anagrams.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/lavanya/examples/Anagrams.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1080">
               <caret line="72" column="1" lean-forward="true" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SplitString.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lavanya/examples/SplitString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CheckRegexPattern.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/lavanya/examples/CheckRegexPattern.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,12 +115,14 @@
         <option value="$PROJECT_DIR$/src/com/lavanya/examples/LexoSubstring.java" />
         <option value="$PROJECT_DIR$/src/com/lavanya/examples/Reverse.java" />
         <option value="$PROJECT_DIR$/src/com/lavanya/examples/Anagrams.java" />
+        <option value="$PROJECT_DIR$/src/com/lavanya/examples/SplitString.java" />
+        <option value="$PROJECT_DIR$/src/com/lavanya/examples/CheckRegexPattern.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="125" />
-    <option name="y" value="258" />
+    <option name="x" value="148" />
+    <option name="y" value="104" />
     <option name="width" value="1260" />
     <option name="height" value="682" />
   </component>
@@ -407,7 +431,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="125" y="258" width="1260" height="682" extended-state="0" />
+    <frame x="148" y="104" width="1260" height="682" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -581,6 +605,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
           <caret line="72" column="1" lean-forward="true" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lavanya/examples/SplitString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lavanya/examples/CheckRegexPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
