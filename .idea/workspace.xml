@@ -16,14 +16,27 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Expressionbalance.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Expressionbalance.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/lavanya/examples/Expressionbalance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-429">
+            <state relative-caret-position="-354">
               <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#485#493#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Setdatastructureex.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/lavanya/examples/Setdatastructureex.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#580#588#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -78,12 +91,13 @@
         <option value="$PROJECT_DIR$/src/com/lavanya/examples/Arralistinsertdelete.java" />
         <option value="$PROJECT_DIR$/src/com/lavanya/examples/Hashmapsprob.java" />
         <option value="$PROJECT_DIR$/src/com/lavanya/examples/Expressionbalance.java" />
+        <option value="$PROJECT_DIR$/src/com/lavanya/examples/Setdatastructureex.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="55" />
-    <option name="y" value="188" />
+    <option name="x" value="130" />
+    <option name="y" value="193" />
     <option name="width" value="1260" />
     <option name="height" value="644" />
   </component>
@@ -436,7 +450,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="188" width="1260" height="644" extended-state="0" />
+    <frame x="130" y="193" width="1260" height="644" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -747,11 +761,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lavanya/examples/Expressionbalance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-429">
+        <state relative-caret-position="-354">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#485#493#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lavanya/examples/Setdatastructureex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#580#588#0" expanded="true" />
           </folding>
         </state>
       </provider>
