@@ -8,6 +8,7 @@ import java.util.Scanner;
  * Created by lavanya on 1/8/17.
  */
 public class Iteratorex1 {
+
     static Iterator func(ArrayList mylist){
         Iterator it=mylist.iterator();
         while(it.hasNext()){
